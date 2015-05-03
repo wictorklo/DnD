@@ -1,0 +1,12 @@
+c:\users\wictor\documents\visual studio 2013\Projects\DnD\DnD\bin\Debug\DnD.exe.config
+c:\users\wictor\documents\visual studio 2013\Projects\DnD\DnD\bin\Debug\DnD.exe
+c:\users\wictor\documents\visual studio 2013\Projects\DnD\DnD\bin\Debug\DnD.pdb
+c:\users\wictor\documents\visual studio 2013\Projects\DnD\DnD\obj\Debug\DnD.Form1.resources
+c:\users\wictor\documents\visual studio 2013\Projects\DnD\DnD\obj\Debug\DnD.Properties.Resources.resources
+c:\users\wictor\documents\visual studio 2013\Projects\DnD\DnD\obj\Debug\DnD.csproj.GenerateResource.Cache
+c:\users\wictor\documents\visual studio 2013\Projects\DnD\DnD\obj\Debug\DnD.exe
+c:\users\wictor\documents\visual studio 2013\Projects\DnD\DnD\obj\Debug\DnD.pdb
+c:\users\wictor\documents\visual studio 2013\Projects\DnD\DnD\bin\Debug\yo-NG\DnD.resources.dll
+c:\users\wictor\documents\visual studio 2013\Projects\DnD\DnD\obj\Debug\DnD.Form1.yo-NG.resources
+c:\users\wictor\documents\visual studio 2013\Projects\DnD\DnD\obj\Debug\yo-NG\DnD.resources.dll
+c:\users\wictor\documents\visual studio 2013\Projects\DnD\DnD\obj\Debug\DnD.csprojResolveAssemblyReference.cache
